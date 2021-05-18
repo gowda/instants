@@ -6,7 +6,7 @@ ruby '~> 2.6.0'
 
 gem 'bcrypt', '~> 3.1.7'
 gem 'jbuilder', '~> 2.7'
-gem 'puma', '~> 5.0'
+gem 'puma', '~> 5.3'
 gem 'rails', '~> 6.1.0'
 gem 'redis', '~> 4.0'
 gem 'sqlite3', '~> 1.4'
